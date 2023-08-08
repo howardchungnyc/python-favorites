@@ -4,19 +4,17 @@
 
 # Let's see what's different:
 first_question = "What is your favorite color?"
-teal
 # In Python, values inside quotation marks like you see above
 # are called Strings. Strings can contain any combination of
 # letters or numbers, so they're the perfect place to write our
 # answers. Go ahead and write your answer to the first question
 # in the string below:
-first_question_answer = "YOUR_ANSWER_HERE"
-
+first_question_answer = "Teal"
 # After you've committed and pushed, repeat the same process for
 # the rest of the questions!
 
 second_question = "What is your favorite food?"
-second_question_answer = "YOUR_ANSWER_HERE"
+second_question_answer = "veggie pho"
 
 third_question = "Who is your favorite fictional character? ex. Mickey Mouse, Bugs Bunny"
 third_question_answer = "YOUR_ANSWER_HERE"
