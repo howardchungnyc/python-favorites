@@ -14,10 +14,10 @@ first_question_answer = "Teal"
 # the rest of the questions!
 
 second_question = "What is your favorite food?"
-second_question_answer = "veggie pho"
+second_question_answer = ""
 
 third_question = "Who is your favorite fictional character? ex. Mickey Mouse, Bugs Bunny"
-third_question_answer = "Wolverine"
+third_question_answer = ""
 
 """
 !! Reminder that you should be:
@@ -28,7 +28,9 @@ third_question_answer = "Wolverine"
 """
 
 fourth_question = "What is your favorite animal?"
-fourth_question_answer = "Panda"
+fourth_question_answer = ""
 
 fifth_question = "What is your favorite programming language? (Hint: You can always say Python!!)"
-fifth_question_answer = "Python baby!!!"
+fifth_question_answer = ""
+
+# print(first_question_answer)
